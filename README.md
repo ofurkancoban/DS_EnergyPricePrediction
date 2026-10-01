@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn xgboost statsmodels yfinance openmet
 ## Course Information
 - University: University of Oldenburg
 - Course: Data Science I (Winter Semester 2025/2026)
-- Author: Ömer Furkan Çoban
+- Author: Furkan Çoban
 
 ## License
 This project is developed for academic purposes at the University of Oldenburg.
